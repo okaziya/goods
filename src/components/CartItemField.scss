@@ -1,0 +1,19 @@
+@import "../styles/dependences.scss";
+
+.cart-item__input {
+  width: 3.5rem;
+  height: 2.2rem;
+  border: $border;
+  font-size: 1rem;
+  padding: 0.3rem;
+  box-sizing: border-box;
+  margin-bottom: 6px;
+}
+
+.cart-item__hint {
+  background-color: $orange;
+  border: 2px dashed $dark-orange;
+  color: $red;
+  display: block;
+  padding: 0.4rem;
+}

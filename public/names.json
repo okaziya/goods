@@ -1,0 +1,145 @@
+{
+  "1": {
+    "groupName": "Books",
+    "groupGoods": {
+      "1": {
+        "name": "Introduction to Algorithms Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest"
+      },
+      "2": {
+        "name": "Code Complete. Steve McConnell"
+      },
+      "3": {
+        "name": "JavaScript: The Definitive Guide. David Flanagan"
+      }
+    }
+  },
+  "2": {
+    "groupName": "Food",
+    "C": 2,
+    "groupGoods": {
+      "7": {
+        "name": "Oatmeal cakes with chocolate "
+      },
+      "8": {
+        "name": "Chinese cabbage soup"
+      },
+      "85": {
+        "name": "Cherries in brandy"
+      },
+      "86": {
+        "name": "Stuffed peppers"
+      },
+      "109": {
+        "name": "Sunflower salad"
+      },
+      "110": {
+        "name": "Trout Erlangen"
+      },
+      "111": {
+        "name": "Seafood salad"
+      },
+      "112": {
+        "name": "Grated pie"
+      },
+      "115": {
+        "name": "Pork marinated in red wine"
+      },
+      "116": {
+        "name": "Prune and ham salad"
+      },
+      "125": {
+        "name": "Grilled bell peppers and zucchini"
+      },
+      "126": {
+        "name": "Salad «Bouquet of daffodils»"
+      },
+      "127": {
+        "name": "Seafood salad with cucumbers, arugula and olives"
+      }
+    }
+  },
+  "5": {
+    "groupName": "Sport",
+    "C": 2,
+    "groupGoods": {
+      "184": {
+        "name": "Treadmill"
+      },
+      "185": {
+        "name": "Removable dumbbells"
+      },
+      "186": {
+        "name": "Hunting rifle"
+      },
+      "187": {
+        "name": "Exercise bike"
+      }
+    }
+  },
+  "8": {
+    "groupName": "Sanitary engineering",
+    "C": 3,
+    "groupGoods": {
+      "4": {
+        "name": "Acrylic bathtub Alpen Mars "
+      },
+      "5": {
+        "name": "Mixer Sturm Classica"
+      },
+      "6": {
+        "name": "Cabinet with sink - Tiffany World "
+      }
+    }
+  },
+  "10": {
+    "groupName": "Spare parts for cars",
+    "C": 3,
+    "groupGoods": {
+      "191": {
+        "name": "Rear shock absorber CX-5 "
+      },
+      "192": {
+        "name": "Shock absorber spring"
+      },
+      "193": {
+        "name": "Air filter housing"
+      },
+      "194": {
+        "name": "Drive belt"
+      },
+      "195": {
+        "name": "Radiator diffuser"
+      },
+      "196": {
+        "name": "Automatic transmission filter"
+      }
+    }
+  },
+  "15": {
+    "groupName": "Souvenirs",
+    "C": 2,
+    "groupGoods": {
+      "11": {
+        "name": "Drawing set Pastel"
+      },
+      "12": {
+        "name": "Trinket"
+      },
+      "63": {
+        "name": "Keychain opener"
+      },
+      "64": {
+        "name": "Ballpoint pen"
+      },
+      "146": {
+        "name": "A bracelet"
+      },
+      "147": {
+        "name": "Glasses case"
+      },
+      "148": {
+        "name": "Exhibition bag"
+      }
+    }
+  }
+}

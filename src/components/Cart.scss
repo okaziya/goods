@@ -1,0 +1,28 @@
+@import "../styles/dependences.scss";
+
+.cart-table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cart-table__name-column {
+  width: 55%;
+}
+
+.cart-table__quantity-column {
+  width: 20%;
+}
+.cart-table__price-column {
+  width: 25%;
+}
+
+th,
+td {
+  padding: 5px;
+  border: 1px solid $light-gray;
+}
+
+td {
+  vertical-align: middle;
+}

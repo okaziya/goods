@@ -1,0 +1,76 @@
+{
+  "goods": [
+    {
+      "USDPrice": 158,
+      "groupId": 1,
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "USDPrice": 197,
+      "groupId": 1,
+      "quantity": 99,
+      "id": 2
+    },
+    {
+      "USDPrice": 18,
+      "groupId": 1,
+      "quantity": 31,
+      "id": 3
+    },
+    {
+      "USDPrice": 2.14,
+      "groupId": 2,
+      "quantity": 15,
+      "id": 8
+    },
+    {
+      "USDPrice": 1.52,
+      "groupId": 2,
+      "quantity": 76,
+      "id": 86
+    },
+    {
+      "USDPrice": 5.5,
+      "groupId": 2,
+      "quantity": 100,
+      "id": 126
+    },
+    {
+      "USDPrice": 2.71,
+      "groupId": 5,
+      "quantity": 51,
+      "id": 184
+    },
+    {
+      "USDPrice": 3.95,
+      "groupId": 5,
+      "quantity": 2,
+      "id": 185
+    },
+    {
+      "USDPrice": 1.22,
+      "groupId": 10,
+      "quantity": 51,
+      "id": 194
+    },
+    {
+      "USDPrice": 1.18,
+      "groupId": 15,
+      "quantity": 55,
+      "id": 12
+    },
+    {
+      "USDPrice": 1.55,
+      "groupId": 15,
+      "quantity": 64,
+      "id": 63
+    },
+    {
+      "USDPrice": 1.55,
+      "groupId": 15,
+      "quantity": 77,
+      "id": 64
+    }
+  ]
+}

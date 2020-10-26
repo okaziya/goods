@@ -1,0 +1,25 @@
+@import "../styles//dependences.scss";
+
+.product {
+  justify-content: space-between;
+  padding: 0.5rem 0;
+}
+
+.product__body {
+  width: 75%;
+  padding: 0.3rem;
+}
+
+.product__price {
+  width: 15%;
+}
+
+.product__button-container {
+  width: 10%;
+}
+
+.product__quantity {
+  min-width: 50px;
+  min-height: 40px;
+  background-color: $azure;
+}

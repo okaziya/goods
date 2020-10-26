@@ -46,7 +46,7 @@ export default function CartItemField({ item, maxQuantity }) {
         </div>
         {parseInt(quantity) === maxQuantity && (
           <div className="cart-item__hint text-center">
-            <small className="bold">Количество ограничено</small>
+            <small className="bold">Limited quantity</small>
           </div>
         )}
       </td>

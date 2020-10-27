@@ -58,7 +58,7 @@ function Goods() {
   return (
     <>
       <header className="flex-center">
-        <h1>Товары</h1>
+        <h1>Goods</h1>
       </header>
       <main className="app container">
         {groups.map((group) => (

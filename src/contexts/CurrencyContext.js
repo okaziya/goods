@@ -3,8 +3,8 @@ import React, { useState, useCallback } from "react";
 export const CurrencyContext = React.createContext({});
 
 const initRates = {
-  RUB: 1,
-  USD: 60,
+  CZK: 1,
+  USD: 24,
 };
 
 export const CurrencyProvider = ({ children }) => {

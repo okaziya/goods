@@ -26,8 +26,6 @@ export default function constructDataState(data, namesData) {
     return { price: USDPrice, groupId, quantity, id };
   });
 
-  console.log("names", names);
-
   const dataState = arrayOfGoods.reduce(
     (acc, product) => {
       const { groupId } = product;
